@@ -1,12 +1,16 @@
 # 注解和反射
 
+github:https://github.com/C-SouthWind/AnnotationsAndReflections
+
 ## 注解Annotation
+
+2022-01-11 20:35:00
 
 ### 什么是注解？
 
 Annotation是从JDK5.0开始引入的新技术
 
-- Annotation的作用：
+- -nnotation的作用：
   - 不是程序本身，可以对程序做出解释。（这一点和注解（comment）没什么区别）
   - 可以被其他程序（比如：编译器等）读取
 - Annotation的格式：

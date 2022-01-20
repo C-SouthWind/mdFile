@@ -1,5 +1,7 @@
 # Mysql
 
+github:https://github.com/C-SouthWind/Mysql-stu
+
 JavaEE：企业级Java开发 Web
 
 前端（页面：展示，数据！）
